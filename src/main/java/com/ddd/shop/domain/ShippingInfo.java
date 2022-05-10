@@ -1,4 +1,4 @@
-package com.ddd.shop;
+package com.ddd.shop.domain;
 
 // 배송지 정보
 public class ShippingInfo {

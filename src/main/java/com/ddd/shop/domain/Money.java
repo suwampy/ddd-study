@@ -1,4 +1,4 @@
-package com.ddd.shop;
+package com.ddd.shop.domain;
 
 public class Money {
     private int value;

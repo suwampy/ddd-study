@@ -1,4 +1,4 @@
-package com.ddd.shop;
+package com.ddd.shop.domain;
 
 public class OrderNo {
     private String value;

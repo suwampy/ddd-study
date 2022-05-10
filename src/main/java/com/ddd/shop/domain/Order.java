@@ -1,6 +1,4 @@
-package com.ddd.shop;
-
-import lombok.AllArgsConstructor;
+package com.ddd.shop.domain;
 
 import java.util.List;
 import java.util.Objects;
